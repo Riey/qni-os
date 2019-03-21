@@ -14,4 +14,3 @@ panic = "abort"
 uefi = { git = "https://github.com/rust-osdev/uefi-rs" }
 uefi-services = { git = "https://github.com/rust-osdev/uefi-rs" }
 log = { version = "0.4.6", default-features = false }
-ucs2 = "0.1.0"
